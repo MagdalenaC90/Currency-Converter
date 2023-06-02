@@ -1,0 +1,91 @@
+.form {
+   background-color: hsla(0, 0%, 98%, 0.62);
+   max-width: 600px;
+   margin: 0 auto;
+   margin-top: 50px;
+   font-size: 20px;
+   margin-bottom: 50px;
+}
+
+.form__fieldset {
+   border: 2px solid;
+   padding-bottom: 30px;
+   padding-top: 20px;
+   margin: 80px;
+   margin-top: 50px;
+}
+
+.form__legend {
+   font-size: 40px;
+   color: hsl(144, 86%, 12%);
+}
+
+.form__input {
+   text-align: center;
+   padding: 5px 10px;
+   background-color: hsl(128, 53%, 83%);
+   width: 100%;
+   margin: 10px 0;
+   color: black;
+}
+
+.form__select {
+   padding: 5px 10px;
+   background-color: hsl(120, 21%, 52%);
+   width: 100%;
+   margin: 10px 0;
+   color: white;
+}
+
+.form__option {
+   text-align: center;
+}
+
+.form__button {
+   width: 100%;
+   background-color: hsl(120, 21%, 22%);
+   color: hsl(208, 100%, 97%);
+   padding: 7px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+
+.form__button:hover {
+   background-color: hsl(107, 29%, 57%);
+   color: white;
+}
+
+.form__button:active {
+   background-color: hsl(107, 29%, 57%);
+   color: white;
+}
+
+.form__buttonReset:hover {
+   background-color: hsl(107, 29%, 57%);
+   color: white;
+}
+
+.form__buttonReset:active {
+   background-color: hsl(107, 29%, 57%);
+   color: white;
+}
+
+.form__result {
+   display: inline-block;
+   width: 100%;
+   padding: 10px;
+}
+
+.form__buttonReset {
+   width: 100%;
+   background-color: hsl(120, 21%, 22%);
+   color: hsl(208, 100%, 97%);
+   padding: 7px;
+}
+
+.form__span {
+   text-align: center;
+   background-color: hsl(120, 21%, 52%);
+   color: hsl(208, 100%, 97%);
+   padding: 7px;
+}
