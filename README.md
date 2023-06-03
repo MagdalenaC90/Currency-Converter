@@ -6,7 +6,7 @@ https://magdalenac90.github.io/Currency-Converter/
 
 ## Description
 Currency Converter is my first project.
-The calculations can be made between polisch "Zloty PLN" and three another curriences ( EUR, GBP, USD ).
+The calculations can be made between polisch "Zloty PLN" and three another curriences ( EUR, GBP, USD).
 
 ## Used Technologies:
 1. HTML
